@@ -7,6 +7,8 @@
 const jokes = document.querySelector('#joke');
 const jokeBtn =  document.querySelector('#jokeBtn');
 
+// promise
+
 // const generateJokes = ()=>{
     
 //     const setHeader = {
